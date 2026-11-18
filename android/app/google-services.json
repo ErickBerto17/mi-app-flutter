@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229328900819",
+    "project_id": "asistapp-c7edd",
+    "storage_bucket": "asistapp-c7edd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229328900819:android:94d422ba3fff75af52ba26",
+        "android_client_info": {
+          "package_name": "com.example.asistencia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATlKd_PPyicx98OJQT7p9qJOX2aW4quC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
